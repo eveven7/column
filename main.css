@@ -1,0 +1,35 @@
+.col-1 {
+    background-color: blue;
+}
+
+.row>* {
+    border: 3px solid white;
+}
+
+.col-sm-3 {
+    background-color: green;
+}
+
+.col-md-4 {
+    background-color: rgb(31, 25, 112);
+}
+
+.row4>* {
+    background-color: rgb(122, 44, 122);
+}
+
+.row5>* {
+    background-color: rgb(181, 35, 181);
+}
+
+.row6>* {
+    background-color: rgb(255, 0, 179);
+}
+
+.row7>* {
+    background-color: rgb(232, 18, 18);
+}
+
+.container {
+    text-align: center;
+}
